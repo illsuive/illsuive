@@ -1,6 +1,33 @@
-# Hi there, I'm Gautam Singh Butola 👋
+<h1 align="center">Hi 👋, I'm Gautam Singh Butola</h1>
+<h3 align="center">Full Stack Developer (MERN) | Transforming ideas into scalable web applications</h3>
 
-I am a professional Software Developer specializing in full-stack web architectures, seamless UI/UX animations, and robust backend systems. I focus on writing clean, scalable code and translating complex requirements into highly performant digital products.
+<p align="center">
+  <a href="https://butola-portfolio.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-Website-blue?style=for-the-badge&logo=vercel" alt="Portfolio" /></a>
+  <a href="mailto:butolagautam721@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/gautamsinghbutola/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" /></a>
+  <a href="https://github.com/illsuive"><img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://leetcode.com/u/illsuive/"><img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
+  <a href="https://www.geeksforgeeks.org/profile/butolagautam721?tab=activity"><img src="https://img.shields.io/badge/GeeksForGeeks-Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksForGeeks" /></a>
+</p>
+
+---
+
+## 👨‍💻 About Me
+I am a dedicated **Full Stack Developer** specializing in the **MERN stack** (MongoDB, Express.js, React, Node.js). Driven by a passion for problem-solving, I focus on engineering robust, scalable, and visually engaging web applications that deliver seamless user experiences.
+
+- 🔭 I’m currently open to new full-stack opportunities.
+- 🌱 I’m constantly learning advanced system design and real-time backend architectures.
+- 💬 Ask me about **React, Node.js, REST APIs, and scaling MERN apps**.
+- 📫 How to reach me: **[butolagautam721@gmail.com](mailto:butolagautam721@gmail.com)**
+
+---
+
+## 🏆 Coding Metrics & Problem Solving
+> _Strong Analytical & Algorithmic Thinking (DSA focused)_
+
+* ⚔️ **LeetCode:** Solved 100+ | Knight (Top 5%) - [Profile](https://leetcode.com/u/illsuive/)
+* 🥷 **Coding Ninjas:** Score: 500+ | Stars: 4★ - [Profile](https://www.naukri.com/code360/profile/ibizion)
+* 💻 **GeeksForGeeks:** Score: 77+ | Institute Rank: 12 - [Profile](https://www.geeksforgeeks.org/profile/butolagautam721?tab=activity)
 
 ---
 
@@ -8,106 +35,80 @@ I am a professional Software Developer specializing in full-stack web architectu
 
 ### 💻 Core Tech Stack
 <p align="left">
-  <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
 </p>
 
-### 📦 Key Libraries & Packages Used Frequently
+### 📦 Key Libraries & Workflow Tools
 * **State Management:** Redux Toolkit, Zustand
-* **Animation & Icons:** GSAP (GreenSock Animation Platform), Lucide React
-* **UI Frameworks:** Bootstrap, Tailwind CSS
-* **Authentication & Media:** JSON Web Tokens (JWT), ImageKit SDK
-* **Payment Gateways:** Razorpay API
-
-### 🧰 Workflow & Tools
-* **IDEs/Editors:** VS Code (Visual Studio Code)
-* **Version Control & Hosting:** Git, GitHub, Terminal Environments, Netlify
-* **Hardware System:** MacBook Air M4
-
-### 🧠 Soft Skills & Professional Attributes
-* Agile Problem Solving & Cross-Functional Collaboration
-* Strong Analytical & Algorithmic Thinking (DSA focused)
-* Direct Client Communication & Lead Generation Strategy
-* Adaptable Architecture Design & Attention to UX Detail
+* **Tools/Others:** Git/GitHub, Netlify/Render, Socket.io (Real-time), Swagger (API Docs)
+* **Animation & Icons:** GSAP (GreenSock), Lucide React
+* **Gateways & SDKs:** Razorpay API, ImageKit SDK, JSON Web Tokens (JWT)
 
 ---
 
-## 🚀 Professional Project Portfolio
+## 🚀 Featured Projects
 
-### 📦 Full-Stack Applications
+### 🌐 Full Stack Applications
+| Project | Description | Tech Stack | Links |
+|---------|-------------|------------|-------|
+| **Food-Reel** | A high-fidelity, short-form video delivery network explicitly for food creators. Features custom media streaming and cloud optimization. | MERN, ImageKit, Razorpay | [Live](https://illsuive-food-reel-frontend.vercel.app/login) / [Code](https://github.com/illsuive/foodReelBackend) |
+| **VideoChat-Site** | Real-time chat & video application built for instant messaging and presence indicators. | React, Node, Stream-Chat | [Live](https://video-call-frontend-theta.vercel.app/login) / [Code](https://github.com/illsuive/videoCallBackend/tree/main) |
+| **AI-ChatBox** | An intelligent chat application powered by AI to generate smart and contextual responses for seamless conversations. | React, Express, AI API | [Live](https://ai-chatbox-review.netlify.app) / [Code](https://github.com/illsuive/ai-chatbox-front) |
+| **E-Commerce Platform** | A comprehensive e-commerce app offering a full online shopping flow with smart cart logic and inventory tracking. | MERN Stack | [Live](https://e-com-frontend-navy-six.vercel.app/products) / [Code](https://github.com/illsuive/eComBackend) |
+| **MoonMedia** | Real-Time Secure Social Media Platform with 2FA and dynamic rendering logic for instantaneous, lag-free user feed experiences. | MERN, Tailwind, JWT | - |
 
-#### 1. Food-Reel
-* **Architecture:** Robust Model-View-Controller (MVC) Full-Stack Application
-* **Stack:** MongoDB, Express.js, React, Node.js (MERN)
-* **Deep Dive:** A high-fidelity, short-form video delivery network built explicitly for food creators. Implemented custom backend logic to securely handle media streaming and real-time processing.
-* **Core Packages & Integrations:** 
-  * **ImageKit:** Integrated for instant cloud media optimization, automated thumbnail generation, and responsive video transformation.
-  * **Razorpay:** Implemented a full secure checkout layer for user monetization and premium subscription tiers.
+### 🎨 Standout Frontend Systems
+| Project | Description | Tech Stack | Links |
+|---------|-------------|------------|-------|
+| **Buy-Back** | E-commerce storefront checkout flow model ensuring cart states, inventory tallies, and filter matrices sync seamlessly. | React, Tailwind, Redux | [Live](https://reactwind-ecomsite.netlify.app/) / [Code](https://github.com/illsuive/dummy-ecom) |
+| **Expense Tracker** | Financial budgeting interface to split bills, track expenses, and manage group payments efficiently. | React, Zustand, Tailwind | [Live](https://splittrackerr.netlify.app) / [Code](https://github.com/illsuive/ExpenseTracker) |
+| **Rapid-Ride** | Ride-booking dashboard simulation multi-tier ride allocation layout mirroring operational dispatch boards. | React, Tailwind, Redux | [Live](https://rapidridee.netlify.app) / [Code](https://github.com/illsuive/react-rapido) |
+| **Canvas-Site** | Interactive HTML5 Canvas drawing app with brush sizes, color palette, undo/redo, and PNG export functionality. | HTML5 Canvas, JS | [Live](https://canvasprojectt.netlify.app/) / [Code](https://github.com/illsuive/canvasProject) |
+| **Canteen Management** | Streamlines food ordering and inventory tracking using a centralized global state store. | React, Tailwind, Redux | [Live](https://canteen-ordering-kappa.vercel.app/) / [Code](https://github.com/illsuive/canteenOrdering) |
 
-#### 2. MoonMedia
-* **Architecture:** Real-Time Secure Social Media Platform
-* **Stack:** MERN Stack, Tailwind CSS, REST APIs
-* **Deep Dive:** Engineered a high-performance networking application focusing heavily on secure asset processing and state management. Features custom dynamic rendering logic to deliver an instantaneous, lag-free user feed feed experience.
-* **Core Packages & Integrations:** 
-  * **JWT (JSON Web Tokens):** Handles stateful session encryption and route protection.
-  * **Two-Factor Authentication (2FA):** Designed rigorous multi-step validation guardrails for user login security.
+<details>
+<summary><b>🔥 Click to see more Frontend Projects!</b></summary>
+<br>
 
----
-
-### 🎨 Frontend Systems & Simulations
-
-#### 3. MoonMoonTravller
-* **Architecture:** High-Conversion Tourist Booking & Itinerary Platform
-* **Stack:** Vanilla JavaScript, Tailwind CSS, Responsive UI Design
-* **Deep Dive:** A highly stylized commercial landing page designed to optimize customer intake pipelines. Incorporates fluid, performance-focused layout modules tailored for smooth cross-device accessibility.
-* **Core Packages & Integrations:** 
-  * **Custom Itinerary Sliders:** Built custom UI components for detailed trip breakdowns.
-  * **WhatsApp API Linkage:** Integrated custom call-to-action handlers to route prospective client leads directly to live booking agents.
-
-#### 4. Rapid-Ride
-* **Architecture:** Advanced Ride-Booking Dashboard Simulation
-* **Stack:** React, Tailwind CSS, Frontend State Engine
-* **Deep Dive:** Simulated a real-world multi-tier ride allocation layout. Mimics operational dispatch boards, client status states, and responsive path indicators.
-
-#### 5. Buy-Back
-* **Architecture:** E-Commerce Platform Simulation
-* **Stack:** React, Redux Toolkit / Zustand, Custom Mock Data Engine
-* **Deep Dive:** Built to model a complete marketplace storefront checkout flow. Implemented complex clientside data patterns to ensure cart states, inventory tallies, and filter matrices sync seamlessly without database lag.
-
-#### 6. ExpenseTracker-Site
-* **Architecture:** Personal Ledger & Financial Analytics Tool
-* **Stack:** React, Tailwind CSS, Local Storage persistence
-* **Deep Dive:** A hyper-focused financial budgeting interface allowing granular categorization of transaction blocks, monthly limits, and color-coded visual budgeting balances.
-
-#### 7. Slot Booking Engine
-* **Architecture:** Dynamic Appointment Scheduler
-* **Stack:** Vanilla JavaScript, Bootstrap UI Framework
-* **Deep Dive:** Designed to safely execute local time-slot selection parameters. Avoids time scheduling conflicts using client-side validation states and responsive operational calendars.
+- **upSkillSite** - Course purchasing platform simulation. [[Live]](https://buy-course-sigma.vercel.app)
+- **CRUD TaskManager** - Full-featured task app with dates and browser notifications. [[Live]](https://taskmanageeer.netlify.app/)
+- **Tour-Planner / MoonMoonTravller** - High-conversion booking app integrating WhatsApp leads. [[Live]](https://tourplan-ner.netlify.app)
+- **Drag-Drop-Todo-Site** - Interactive management using drag-and-drop. [[Live]](https://dragdroptodo-site.netlify.app)
+- **QuickSlot Engine** - Safe, local time-slot selection reservation platform. [[Live]](https://slot-booksite.netlify.app)
+</details>
 
 ---
 
-## 📜 Certifications & Examinations
-
-* **TCS NQT (National Qualifier Test):** Successfully qualified, validating corporate-level software engineering benchmarks, quantitative aptitude, and core programmatic foundations.
-* **CUET PG (Computer Science - SCQP09):** Certified evaluation in advanced postgraduate computer science fields, algorithmic design, data structures, and computer application criteria.
+## 🧠 Soft Skills & Competencies
+- 🎯 **Agile Problem Solving** & Cross-Functional Collaboration
+- 📈 **Strong Analytical & Algorithmic Thinking** (DSA focused)
+- 💬 **Direct Client Communication** & Lead Generation Strategy
+- 📐 **Adaptable Architecture Design** & Attention to UX Detail
 
 ---
 
-## 📊 Live GitHub Engine
+## 📜 Certifications
+- **[System Design](https://ninjasfiles.s3.amazonaws.com/certificate_14ce9bfb4755360f_e45b25242737dbe5f8c44d0fc062736c.pdf)** - *Coding Ninjas*
+- **[Data Structures and Algorithms](https://ninjasfiles.s3.amazonaws.com/certificate_aa968f162c19d375_9bece2cbefa4de648f52f946789ba782.pdf)** - *Coding Ninjas*
+- **[Front End | Full Stack Web Development](https://ninjasfiles.s3.amazonaws.com/certificate_7f89b12a44c061f9_d42bfee6d0c4071955b9a74926a213d1.pdf)** - *Coding Ninjas*
+- **[Introduction to Java](https://ninjasfiles.s3.amazonaws.com/certificate_5c94a87c03d1129c_6a6e79eb80ffde52d3bcf8e16e2a05d7.pdf)** - *Coding Ninjas*
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=illsuive&show_icons=true&theme=tokyonight&hide_border=true" alt="Gautam's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=illsuive&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <a href="https://github.com/illsuive">
+    <img src="https://github-readme-stats.vercel.app/api?username=illsuive&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Gautam's GitHub Stats" width="48%" />
+  </a>
+  <a href="https://github.com/illsuive">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=illsuive&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" width="48%" />
+  </a>
 </p>
-
----
-
-## 🔗 Let's Connect!
-* **Portfolio Link:** [butola-portfolio.netlify.app](https://butola-portfolio.netlify.app/)
-* **Location:** Noida / Ghaziabad, India
