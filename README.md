@@ -102,7 +102,7 @@ I am a dedicated **Full Stack Developer** specializing in the **MERN stack** (Mo
 - **[Front End | Full Stack Web Development](https://ninjasfiles.s3.amazonaws.com/certificate_7f89b12a44c061f9_d42bfee6d0c4071955b9a74926a213d1.pdf)** - *Coding Ninjas*
 - **[Introduction to Java](https://ninjasfiles.s3.amazonaws.com/certificate_5c94a87c03d1129c_6a6e79eb80ffde52d3bcf8e16e2a05d7.pdf)** - *Coding Ninjas*
 - **[Advance React](https://ninjasfiles.s3.amazonaws.com/certificate_9d75e06e3ad092b2_335d4669bfcd4bc1776f4a47f7deb945.pdf)** - *Coding Ninjas*
-- - **[Web Development | Generative AI](https://ninjasfiles.s3.amazonaws.com/certificate_87d2363a3e461ac3_9b1f121dfffb7e926c8a1d070daa91fa.pdf)** - *Coding Ninjas*;
+- **[Web Development | Generative AI](https://ninjasfiles.s3.amazonaws.com/certificate_87d2363a3e461ac3_9b1f121dfffb7e926c8a1d070daa91fa.pdf)** - *Coding Ninjas*;
 
 
 ---
