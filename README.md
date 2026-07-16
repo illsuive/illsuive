@@ -17,7 +17,7 @@ I am a dedicated **Full Stack Developer** specializing in the **MERN stack** (Mo
 
 - 🔭 I’m currently open to new full-stack opportunities.
 - 🌱 I’m constantly learning advanced system design and real-time backend architectures.
-- 💬 Ask me about **React, Node.js, REST APIs, and scaling MERN apps**.
+- 💬 Ask me about **React 19, Node.js, Distributed Queues, REST APIs, and scaling MERN apps**.
 - 📫 How to reach me: **[butolagautam721@gmail.com](mailto:butolagautam721@gmail.com)**
 
 ---
@@ -35,19 +35,21 @@ I am a dedicated **Full Stack Developer** specializing in the **MERN stack** (Mo
 
 ### 💻 Core Tech Stack
 <p align="left">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/React_19-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React 19" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
+  <img src="https://img.shields.io/badge/Express.js_5-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Tailwind_v4-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
 </p>
 
 ### 📦 Key Libraries & Workflow Tools
-* **State Management:** Redux Toolkit, Zustand
-* **Tools/Others:** Git/GitHub, Netlify/Render, Socket.io (Real-time), Swagger (API Docs)
+* **Data Fetching & State:** TanStack React Query (v5), Redux Toolkit, Zustand
+* **Message Brokers & Async Tasks:** BullMQ, Ioredis (Redis-backed background job processing)
+* **Tools/Others:** Git/GitHub, Socket.io (Real-time WS), Helmet (Security headers), BcryptJS
 * **Animation & Icons:** GSAP (GreenSock), Lucide React
 * **Gateways & SDKs:** Razorpay API, ImageKit SDK, JSON Web Tokens (JWT)
 
@@ -58,6 +60,7 @@ I am a dedicated **Full Stack Developer** specializing in the **MERN stack** (Mo
 ### 🌐 Full Stack Applications
 | Project | Description | Tech Stack | Links |
 |---------|-------------|------------|-------|
+| **Book-Engine Platform** | Advanced reservation/management ecosystem leveraging distributed task queues for heavy background tasks and real-time state synchronization via WebSockets. Secured via Helmet & JWT. | React 19, Express 5, Mongoose, Redis, BullMQ, Socket.io, TanStack Query | [Live](https://book-frontend-mocha.vercel.app/) / [Code](https://github.com/illsuive) |
 | **Chat-App** | A real-time chat application built with Socket.io for global, anyone can chat anywhere and his chat is saved and secure . | MERN, cloudnary, socket.io| [Live](https://chat-front-amber-kappa.vercel.app) / [Code](https://github.com/illsuive/chatBack/tree/main) |
 | **Food-Reel** | A high-fidelity, short-form video delivery network explicitly for food creators. Features custom media streaming and cloud optimization. | MERN, ImageKit, Razorpay | [Live](https://dummy-front-six.vercel.app/login) / [Code](https://github.com/illsuive/foodReelBackend) |
 | **VideoChat-Site** | Real-time chat & video application built for instant messaging and presence indicators. | React, Node, Stream-Chat | [Live](https://video-call-frontend-theta.vercel.app/login) / [Code](https://github.com/illsuive/videoCallBackend/tree/main) |
