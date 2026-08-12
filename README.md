@@ -15,7 +15,7 @@
 ## 👨‍💻 About Me
 I am a dedicated **Full Stack Developer** specializing in the **MERN stack** (MongoDB, Express.js, React, Node.js). Driven by a passion for problem-solving, I focus on engineering robust, scalable, and visually engaging web applications that deliver seamless user experiences.
 
-- 🔭 I’m currently open to new full-stack opportunities.
+- 🔭 Currently working as a **Java Developer Intern at Axlero Solution**.
 - 🌱 I’m constantly learning advanced system design and real-time backend architectures.
 - 💬 Ask me about **React 19, Node.js, Distributed Queues, REST APIs, and scaling MERN apps**.
 - 📫 How to reach me: **[butolagautam721@gmail.com](mailto:butolagautam721@gmail.com)**
@@ -60,14 +60,17 @@ I am a dedicated **Full Stack Developer** specializing in the **MERN stack** (Mo
 ### 🌐 Full Stack Applications
 | Project | Description | Tech Stack | Links |
 |---------|-------------|------------|-------|
+| **AI Tour Planner** | Intelligent itinerary generation system designed to curate customized travel plans and routes based on user preferences. | MERN, AI APIs, Tailwind | [Live](https://tour-frontend-orpin.vercel.app/) / [Code](https://github.com/illsuive/TourBackend) |
+| **Study Abroad Platform** | Comprehensive portal assisting students with university searches, consultation management, and overseas application pipelines. | MERN Stack, JWT | [Live](https://venture-builder-frontend.vercel.app/login) / [Code](https://github.com/illsuive/ventureBuilderBackend) |
+| **PayFlow Affiliate Ledger** | Transparent tracking system for affiliate earnings, payout disbursements, and commission structures in real time. | MERN Stack, REST APIs | [Live](https://pay-flow-frontend-three.vercel.app/) / [Code](https://github.com/illsuive/PayFlowBackend) |
 | **Book-Engine Platform** | Advanced reservation/management ecosystem leveraging distributed task queues for heavy background tasks and real-time state synchronization via WebSockets. Secured via Helmet & JWT. | React 19, Express 5, Mongoose, Redis, BullMQ, Socket.io, TanStack Query | [Live](https://book-frontend-mocha.vercel.app/) / [Code](https://github.com/illsuive/BookBackend) |
-| **Chat-App** | A real-time chat application built with Socket.io for global, anyone can chat anywhere and his chat is saved and secure . | MERN, cloudnary, socket.io| [Live](https://chat-front-amber-kappa.vercel.app) / [Code](https://github.com/illsuive/chatBack/tree/main) |
+| **Chat-App** | A real-time chat application built with Socket.io for global, secured, and persistent instant messaging. | MERN, Cloudinary, Socket.io | [Live](https://chat-front-amber-kappa.vercel.app) / [Code](https://github.com/illsuive/chatBack/tree/main) |
 | **Food-Reel** | A high-fidelity, short-form video delivery network explicitly for food creators. Features custom media streaming and cloud optimization. | MERN, ImageKit, Razorpay | [Live](https://dummy-front-six.vercel.app/login) / [Code](https://github.com/illsuive/foodReelBackend) |
 | **VideoChat-Site** | Real-time chat & video application built for instant messaging and presence indicators. | React, Node, Stream-Chat | [Live](https://video-call-frontend-theta.vercel.app/login) / [Code](https://github.com/illsuive/videoCallBackend/tree/main) |
 | **AI-ChatBox** | An intelligent chat application powered by AI to generate smart and contextual responses for seamless conversations. | React, Express, AI API | [Live](https://ai-chatbox-review.netlify.app) / [Code](https://github.com/illsuive/ai-chatbox-front) |
 | **E-Commerce Platform** | A comprehensive e-commerce app offering a full online shopping flow with smart cart logic and inventory tracking. | MERN Stack | [Live](https://e-com-frontend-navy-six.vercel.app/products) / [Code](https://github.com/illsuive/eComBackend) |
 | **MoonMedia** | Real-Time Secure Social Media Platform with 2FA and dynamic rendering logic for instantaneous, lag-free user feed experiences. | MERN, Tailwind, JWT | [Live](https://socail-media-frontend-beta.vercel.app/) / [Code](https://github.com/illsuive/socailMediaBackend) |
-| **Group-Chat** | A real-time chat application built with Socket.io for global, anonymous connections and instant messaging. | javascript , Socket.io , HTML&CSS | [Live](https://chat-app-xzvf.onrender.com) / [Code](https://github.com/illsuive/chat-app) |
+| **Group-Chat** | A real-time chat application built with Socket.io for global, anonymous connections and instant messaging. | JavaScript, Socket.io, HTML & CSS | [Live](https://chat-app-xzvf.onrender.com) / [Code](https://github.com/illsuive/chat-app) |
 
 ### 🎨 Standout Frontend Systems
 | Project | Description | Tech Stack | Links |
@@ -105,8 +108,7 @@ I am a dedicated **Full Stack Developer** specializing in the **MERN stack** (Mo
 - **[Front End | Full Stack Web Development](https://ninjasfiles.s3.amazonaws.com/certificate_7f89b12a44c061f9_d42bfee6d0c4071955b9a74926a213d1.pdf)** - *Coding Ninjas*
 - **[Introduction to Java](https://ninjasfiles.s3.amazonaws.com/certificate_5c94a87c03d1129c_6a6e79eb80ffde52d3bcf8e16e2a05d7.pdf)** - *Coding Ninjas*
 - **[Advance React](https://ninjasfiles.s3.amazonaws.com/certificate_9d75e06e3ad092b2_335d4669bfcd4bc1776f4a47f7deb945.pdf)** - *Coding Ninjas*
-- **[Web Development | Generative AI](https://ninjasfiles.s3.amazonaws.com/certificate_87d2363a3e461ac3_9b1f121dfffb7e926c8a1d070daa91fa.pdf)** - *Coding Ninjas*;
-
+- **[Web Development | Generative AI](https://ninjasfiles.s3.amazonaws.com/certificate_87d2363a3e461ac3_9b1f121dfffb7e926c8a1d070daa91fa.pdf)** - *Coding Ninjas*
 
 ---
 
